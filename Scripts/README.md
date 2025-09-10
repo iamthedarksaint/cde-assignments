@@ -45,7 +45,7 @@ Scripts/
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ### 1. Install Dependencies
 
@@ -77,7 +77,7 @@ DB_NAME=name
 URL="https://example.com/data.csv"
 ```
 
-## ▶️ Running Each Part
+##  Running Each Part
 
 ### 1. Database Loader
 
