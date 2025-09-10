@@ -2,3 +2,4 @@
 *.json
 *dummy
 *etl.log
+*.env
