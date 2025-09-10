@@ -1,0 +1,138 @@
+{"ProductID":1001,"ProductName":"Product 1","Category":"Category A","Price":20}
+{"ProductID":1002,"ProductName":"Product 2","Category":"Category B","Price":30}
+{"ProductID":1003,"ProductName":"Product 3","Category":"Category A","Price":40}
+{"ProductID":1004,"ProductName":"Product 4","Category":"Category C","Price":50}
+
+-- Main sales table
+CREATE TABLE Sales (
+    SalesID INT PRIMARY KEY,
+    Date DATE,
+    StoreID INT,
+    ProductID INT,
+    SalesPersonID INT,
+    UnitsSold INT,
+    Revenue DECIMAL(18, 2),
+    Cost DECIMAL(18, 2)
+);
+GO
+
+-- Sales persons data
+CREATE TABLE SalesPersons(
+    SalesPersonID INT PRIMARY KEY,
+    SalesPersonName VARCHAR(100),
+    StoreID INT
+);
+GO
+
+-- Stores data
+CREATE TABLE Stores(
+    StoreID INT PRIMARY KEY,
+    StoreName VARCHAR(100),
+    Region VARCHAR(100)
+);
+GO
+
+CREATE TABLE Products (
+    ProductID INT PRIMARY KEY,
+    ProductName VARCHAR(100),
+    Category VARCHAR(50),
+    Price DECIMAL(10, 2)
+);
+GO
+
+
+EXEC LoadStoresData;
+EXEC LoadProductsData;
+EXEC LoadSalesPersonsData;
+
+CREATE PROCEDURE LoadStoresData
+AS
+BEGIN
+    DELETE FROM Stores;
+
+    INSERT INTO Stores (StoreID, StoreName, Region)
+    SELECT DISTINCT StoreID, StoreName, Region
+    FROM Staging_StoresData
+    WHERE StoreID IS NOT NULL;
+END;
+GO
+
+select * from dbo.staging_SalesData;
+select * from dbo.staging_ProductsData;
+select * from dbo.staging_SalesPersonsData;
+select * from dbo.staging_StoresData;
+
+select * from dbo.Sales;
+
+
+CREATE PROCEDURE LoadSales
+AS
+BEGIN
+    DELETE FROM Sales;
+
+    INSERT INTO Sales
+    SELECT DISTINCT *
+    FROM Staging_SalesData
+    WHERE Revenue >= 0 AND UnitSold > 0;
+END;
+
+SELECT TOP 1 FROM Sales;
+
+
+CREATE PROCEDURE LoadProductsData
+AS
+BEGIN
+    DELETE FROM Products;
+
+    INSERT INTO Products (ProductID, ProductName, Category, Price)
+    SELECT DISTINCT ProductID, ProductName, Category, Price
+    FROM Staging_ProductsData
+    WHERE ProductID IS NOT NULL AND Price >= 0;
+END;
+GO
+
+CREATE PROCEDURE LoadSalesPersonsData
+AS
+BEGIN
+    DELETE FROM SalesPersons;
+
+    INSERT INTO SalesPersons (SalesPersonID, SalesPersonName, StoreID)
+    SELECT DISTINCT SalesPersonID, SalesPersonName, StoreID
+    FROM Staging_SalesPersonsData
+    WHERE SalesPersonID IS NOT NULL AND StoreID IS NOT NULL;
+END;
+GO
+
+
+CREATE TABLE Staging_SalesData (
+    SalesID INT,
+    Date DATE,
+    StoreID INT,
+    ProductID INT,
+    SalesPersonID INT,
+    UnitsSold INT,
+    Revenue DECIMAL(18,2),
+    Cost DECIMAL(18,2)
+);
+
+CREATE TABLE Staging_SalesPersonsData (
+    SalesPersonID INT,
+    SalesPersonName NVARCHAR(100),
+    StoreID INT
+);
+
+CREATE TABLE Staging_StoresData (
+    StoreID INT,
+    StoreName NVARCHAR(100),
+    Region NVARCHAR(50)
+);
+
+CREATE TABLE Staging_ProductsData (
+    ProductID INT,
+    ProductName NVARCHAR(100),
+    Category NVARCHAR(50),
+    Price DECIMAL(18,2)
+);
+
+
+
