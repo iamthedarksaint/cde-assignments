@@ -48,3 +48,9 @@ fi
    
 
 echo "Extracted, Transformed and Loaded successfully!"
+
+
+
+
+#Schedule script to run daily by 12:00 AM using cron jobs 
+(crontab -l 2>/dev/null; echo )
