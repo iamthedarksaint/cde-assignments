@@ -1,13 +1,3 @@
-Ah, perfect — so your project has **three distinct parts** now:
-
-1. **Database Loader** – CSV → PostgreSQL (`posey.sh`).
-2. **File Movement** – moving CSV files between folders (`move_files.sh`).
-3. **ETL Pipeline** – fetch external data via `curl`, process/transform, push from **Raw → Transformed → Gold** (`etl_pipeline.sh`).
-
-We can update your **README.md** to reflect all three clearly. Here’s a structured draft:
-
----
-
 #  Parch & Posey Data Engineering Project
 
 This project demonstrates hands-on skills in **Linux, Bash scripting, and PostgreSQL**.
