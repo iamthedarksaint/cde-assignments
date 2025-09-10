@@ -1,9 +1,12 @@
 echo A script to move all json file from one folder to another folder named json_and_csv
 
-current_folder="."
-json_and_csv_folder="./json_and_csv"
+CURRENT="./my_files"
+DESTINATION="./json_and_csv"
 
-echo "Moving files from $current_folder"
-mv *.csv *.json  "$json_and_csv_folder"
+mkdir -p "$DESTINATION"
 
-echo "Moved all json and csv files into a $json_and_csv_folder" 
+echo "Moving files from $CURRENT"
+cp "$CURRENT"/*.csv "$DESTINATION"
+cp "$CURRENT"/*.json "$DESTINATION"
+
+echo "Moved all json and csv files into $destination" 
