@@ -13,5 +13,5 @@ db_port = os.getenv("DB_PORT")
 def load(df):
     conn = f"postgresql://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
     engine = create_engine(conn)
-    df.to_sql("data", engine, schema="public", if_exists="append", index=False)
+    df.to_sql("chizaram", engine, schema="public", if_exists="append", index=False)
     print("loaded into database")

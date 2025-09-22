@@ -3,7 +3,8 @@ import pandas as pd
 
 def transform(df):
     
-    df.dropna()
+    df = df.dropna()
+    df = df.drop_duplicates()
 
     df["Value"] = pd.to_numeric(df["Value"], errors='coerce')
 

@@ -1,6 +1,5 @@
 import pandas as pd  
 import requests
-import os
 
 
 def extract(csv_url):
@@ -15,6 +14,7 @@ def extract(csv_url):
         
     except Exception as e:
         print(f"Error while extracting {e}")
+
 
 
 
