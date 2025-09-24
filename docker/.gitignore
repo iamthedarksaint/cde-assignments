@@ -1,0 +1,4 @@
+venv
+*.env
+hello.py
+export_var.sh
