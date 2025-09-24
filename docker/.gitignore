@@ -1,4 +1,4 @@
 venv
-*.csv
+*.env
 hello.py
 export_var.sh

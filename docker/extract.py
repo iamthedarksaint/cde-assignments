@@ -4,9 +4,10 @@ import requests
 
 def extract(csv_url):
     try:
+        print("Extracting Data from the source.")
         response = requests.get(csv_url)
         if response.status_code == 200:
-            print("Speaking to the source")
+            print("Data Extracted!")
 
         df = pd.read_csv(csv_url)
      
