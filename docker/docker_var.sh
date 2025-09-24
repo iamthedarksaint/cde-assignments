@@ -47,3 +47,5 @@ echo "Getting Postgres ready...."
 sleep 40
 echo "Running my ETL container..."
 docker run -it --name "$ETL_CONTAINER_NAME" --network $NETWORK_NAME --env-file .env $ETL_IMAGE_NAME 
+
+#Thank you
