@@ -1,6 +1,6 @@
 # ETL Project in Docker
 
-This project demonstrates an **ETL (Extract, Transform, Load) pipeline** using Python and PostgreSQL, fully dockerized. The ETL extracts data from a source URL, transforms it using Python, and loads it into a PostgreSQL database.
+In this project, I built an **ETL (Extract, Transform, Load) pipeline** using Python and PostgreSQL, fully dockerized. The ETL extracts data from a source URL, transforms it using Python, and loads it into a PostgreSQL database.
 
 ---
 
