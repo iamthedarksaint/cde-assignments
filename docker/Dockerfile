@@ -1,4 +1,5 @@
-FROM python:3.12
+#My python image
+FROM python:3.12 
 
 WORKDIR /app
 
@@ -11,5 +12,7 @@ RUN pip install -r requirements.txt
 # RUN chmod +x export_var.sh
 
 CMD ["python3", "run_pipeline.py"]
+
+
 
 
