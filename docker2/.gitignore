@@ -2,3 +2,5 @@
 *.env
 *venv
 *postgres
+*.user.yml
+*profiles.yml
