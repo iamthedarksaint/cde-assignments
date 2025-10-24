@@ -1,0 +1,5 @@
+{"timestamp":"2025-10-04T00:00:04.079275","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-04T00:00:04.080321","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-04T00:00:04.097916Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-04T00:00:04.157094Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-04T00:00:04.157189","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

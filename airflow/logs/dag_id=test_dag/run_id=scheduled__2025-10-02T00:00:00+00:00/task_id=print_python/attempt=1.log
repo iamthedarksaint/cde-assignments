@@ -1,0 +1,15 @@
+{"timestamp":"2025-10-02T19:09:57.605442","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-02T19:09:57.606336","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T19:09:57.656395Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-02T19:09:57.656811Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-02T19:09:57.657251Z","level":"info","event":"Current task name:print_python","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-02T19:09:57.657554Z","level":"info","event":"Dag name:test_dag","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-02T19:09:57.663291Z","level":"info","event":"Hello from PythonOperator!","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-02T19:09:57.668929","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-10-02T19:09:57.704919Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-02T19:09:57.705220Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-02T19:09:57.705448Z","level":"info","event":"Task operator:<Task(PythonOperator): print_python>","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-02T22:00:13.564519","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-02T22:00:13.574009","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:00:13.701998Z","level":"info","event":"Hello from PythonOperator!","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-02T22:00:13.702150","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

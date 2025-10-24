@@ -1,0 +1,13 @@
+{"timestamp":"2025-10-21T00:00:06.651935","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:00:36.911454","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:01:07.730187","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:01:12.160635","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:01:14.333270","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:01:45.285794","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:02:15.674096","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:02:18.459481","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:02:48.768855","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:03:19.018984","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:03:49.881824","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:04:20.587162","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-21T00:04:50.893975","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/wiki/wiki.py","logger":"airflow.models.dagbag.DagBag"}

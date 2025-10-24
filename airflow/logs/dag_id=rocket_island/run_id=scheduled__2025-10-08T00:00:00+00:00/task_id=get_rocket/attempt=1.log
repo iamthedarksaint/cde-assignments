@@ -1,0 +1,7 @@
+{"timestamp":"2025-10-08T17:55:12.804917","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-08T17:55:12.806245","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/rockets/get_rocket_picture.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T17:55:15.430328","level":"info","event":"Tmp dir root location: /tmp","logger":"airflow.task.hooks.airflow.providers.standard.hooks.subprocess.SubprocessHook"}
+{"timestamp":"2025-10-08T17:55:15.436666","level":"info","event":"Running command: ['/usr/bin/bash', '-c', 'curl -o /opt/airflow/dags/rockets/launches/launches.json -L https://ll.thespacedevs.com/2.0.0/launch/upcoming/']","logger":"airflow.task.hooks.airflow.providers.standard.hooks.subprocess.SubprocessHook"}
+{"timestamp":"2025-10-08T17:55:15.533927","level":"info","event":"Output:","logger":"airflow.task.hooks.airflow.providers.standard.hooks.subprocess.SubprocessHook"}
+{"timestamp":"2025-10-08T17:55:15.585042","level":"info","event":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current","logger":"airflow.task.hooks.airflow.providers.standard.hooks.subprocess.SubprocessHook"}
+{"timestamp":"2025-10-08T17:55:15.585513","level":"info","event":"                                 Dload  Upload   Total   Spent    Left  Speed","logger":"airflow.task.hooks.airflow.providers.standard.hooks.subprocess.SubprocessHook"}

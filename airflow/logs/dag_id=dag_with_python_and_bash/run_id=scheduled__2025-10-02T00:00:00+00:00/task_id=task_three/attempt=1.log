@@ -1,0 +1,8 @@
+{"timestamp":"2025-10-02T21:19:44.442878","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-02T21:19:44.444394","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/foo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T21:19:46.034678Z","level":"info","event":"Running Task Three: Analyzing data...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-02T21:19:46.036261","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator"}
+{"timestamp":"2025-10-02T22:00:07.581549","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-02T22:00:07.582994","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/foo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:00:08.039136Z","level":"info","event":"Running Task Three: Analyzing data...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-02T22:00:08.040084","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator"}

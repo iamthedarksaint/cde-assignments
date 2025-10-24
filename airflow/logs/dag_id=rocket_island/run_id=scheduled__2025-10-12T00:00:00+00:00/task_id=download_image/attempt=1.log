@@ -1,0 +1,3 @@
+{"timestamp":"2025-10-12T00:00:23.568329","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-12T00:00:23.569865","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/rockets/get_rocket_picture.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-12T00:01:14.800260","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

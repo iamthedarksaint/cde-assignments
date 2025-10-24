@@ -1,0 +1,286 @@
+{"timestamp":"2025-10-02T22:18:43.232744","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:18:43.248694Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:18:58.607396","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:18:58.619593Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:19:12.101637","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:19:12.221939Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:19:21.575872","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:19:21.588334Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:19:52.247757","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:19:52.260451Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:20:22.960422","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:20:22.979713Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:20:53.700439","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:20:53.715964Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:21:24.362665","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:21:24.374643Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:21:55.114060","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:21:55.126685Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:22:25.767607","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:22:25.784961Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:22:56.644230","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:22:56.659046Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:23:27.344581","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:23:27.357254Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:23:57.990636","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:23:58.001473Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:24:29.028822","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:24:29.041995Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:24:59.619180","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:24:59.636977Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:25:30.302934","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:25:30.319192Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:26:00.979534","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:26:00.990488Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:26:07.120682","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:26:07.127335","level":"error","event":"Failed to import: /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag","error_detail":[{"exc_type":"SyntaxError","exc_value":"invalid syntax. Perhaps you forgot a comma? (sample.py, line 22)","exc_notes":[],"syntax_error":{"offset":17,"filename":"/opt/airflow/dags/sample.py","line":"        task_id='bash_add'\n","lineno":22,"msg":"invalid syntax. Perhaps you forgot a comma?"},"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py","lineno":394,"name":"parse"},{"filename":"<frozen importlib._bootstrap_external>","lineno":995,"name":"exec_module"},{"filename":"<frozen importlib._bootstrap_external>","lineno":1133,"name":"get_code"},{"filename":"<frozen importlib._bootstrap_external>","lineno":1063,"name":"source_to_code"},{"filename":"<frozen importlib._bootstrap>","lineno":488,"name":"_call_with_frames_removed"}],"is_group":false,"exceptions":[]}]}
+{"timestamp":"2025-10-02T22:26:12.332218","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:26:12.335608","level":"error","event":"Failed to import: /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag","error_detail":[{"exc_type":"SyntaxError","exc_value":"invalid syntax. Perhaps you forgot a comma? (sample.py, line 22)","exc_notes":[],"syntax_error":{"offset":17,"filename":"/opt/airflow/dags/sample.py","line":"        task_id='bash_add'\n","lineno":22,"msg":"invalid syntax. Perhaps you forgot a comma?"},"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py","lineno":394,"name":"parse"},{"filename":"<frozen importlib._bootstrap_external>","lineno":995,"name":"exec_module"},{"filename":"<frozen importlib._bootstrap_external>","lineno":1133,"name":"get_code"},{"filename":"<frozen importlib._bootstrap_external>","lineno":1063,"name":"source_to_code"},{"filename":"<frozen importlib._bootstrap>","lineno":488,"name":"_call_with_frames_removed"}],"is_group":false,"exceptions":[]}]}
+{"timestamp":"2025-10-02T22:26:43.007993","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:26:43.016551","level":"error","event":"Failed to import: /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag","error_detail":[{"exc_type":"SyntaxError","exc_value":"invalid syntax. Perhaps you forgot a comma? (sample.py, line 22)","exc_notes":[],"syntax_error":{"offset":17,"filename":"/opt/airflow/dags/sample.py","line":"        task_id='bash_add'\n","lineno":22,"msg":"invalid syntax. Perhaps you forgot a comma?"},"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py","lineno":394,"name":"parse"},{"filename":"<frozen importlib._bootstrap_external>","lineno":995,"name":"exec_module"},{"filename":"<frozen importlib._bootstrap_external>","lineno":1133,"name":"get_code"},{"filename":"<frozen importlib._bootstrap_external>","lineno":1063,"name":"source_to_code"},{"filename":"<frozen importlib._bootstrap>","lineno":488,"name":"_call_with_frames_removed"}],"is_group":false,"exceptions":[]}]}
+{"timestamp":"2025-10-02T22:27:13.740736","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:27:13.750773","level":"error","event":"Failed to import: /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag","error_detail":[{"exc_type":"SyntaxError","exc_value":"invalid syntax. Perhaps you forgot a comma? (sample.py, line 22)","exc_notes":[],"syntax_error":{"offset":17,"filename":"/opt/airflow/dags/sample.py","line":"        task_id='bash_add'\n","lineno":22,"msg":"invalid syntax. Perhaps you forgot a comma?"},"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py","lineno":394,"name":"parse"},{"filename":"<frozen importlib._bootstrap_external>","lineno":995,"name":"exec_module"},{"filename":"<frozen importlib._bootstrap_external>","lineno":1133,"name":"get_code"},{"filename":"<frozen importlib._bootstrap_external>","lineno":1063,"name":"source_to_code"},{"filename":"<frozen importlib._bootstrap>","lineno":488,"name":"_call_with_frames_removed"}],"is_group":false,"exceptions":[]}]}
+{"timestamp":"2025-10-02T22:27:33.343280","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:27:33.348306","level":"error","event":"Failed to import: /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag","error_detail":[{"exc_type":"TypeError","exc_value":"'str' object cannot be interpreted as an integer","exc_notes":[],"syntax_error":null,"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py","lineno":394,"name":"parse"},{"filename":"<frozen importlib._bootstrap_external>","lineno":999,"name":"exec_module"},{"filename":"<frozen importlib._bootstrap>","lineno":488,"name":"_call_with_frames_removed"},{"filename":"/opt/airflow/dags/sample.py","lineno":14,"name":"<module>"}],"is_group":false,"exceptions":[]}]}
+{"timestamp":"2025-10-02T22:27:33.358928Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:28:03.468267","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:28:03.472175","level":"error","event":"Failed to import: /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag","error_detail":[{"exc_type":"TypeError","exc_value":"'str' object cannot be interpreted as an integer","exc_notes":[],"syntax_error":null,"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py","lineno":394,"name":"parse"},{"filename":"<frozen importlib._bootstrap_external>","lineno":999,"name":"exec_module"},{"filename":"<frozen importlib._bootstrap>","lineno":488,"name":"_call_with_frames_removed"},{"filename":"/opt/airflow/dags/sample.py","lineno":14,"name":"<module>"}],"is_group":false,"exceptions":[]}]}
+{"timestamp":"2025-10-02T22:28:03.485325Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:28:24.824208","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:28:24.836071Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:28:54.970612","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:28:54.980563Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:29:17.769205","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:29:17.787039Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:29:18.896566","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:29:18.937683Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:29:49.818149","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:29:49.828958Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:29:50.938230","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:29:50.962485Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:29:55.132303","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:29:55.151721Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:30:25.989513","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:30:26.001904Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:30:38.506053","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:30:38.516798Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:31:09.261429","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:31:09.273510Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:31:39.648247","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:31:39.670469Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:32:10.803341","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:32:10.818591Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:32:41.595499","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:32:41.615333Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:33:12.218206","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:33:12.230483Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:33:42.941014","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:33:42.949062Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:34:13.607079","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:34:13.623272Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:34:44.313472","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:34:44.325942Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:35:14.994918","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:35:15.007055Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:35:45.707875","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:35:45.723787Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:36:16.336171","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:36:16.347093Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:36:47.004793","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:36:47.016625Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:37:17.670073","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:37:17.694400Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:37:48.344403","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:37:48.357771Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:38:18.972727","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:38:18.987618Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:38:49.712379","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:38:49.726407Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:39:20.535307","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:39:20.546230Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:39:51.194751","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:39:51.207039Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:40:21.881673","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:40:21.894754Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:40:52.596019","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:40:52.607940Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:41:23.276726","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:41:23.288126Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:41:53.968435","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:41:53.980219Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:42:24.629142","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:42:24.640258Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:42:55.327201","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:42:55.342612Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:43:26.007543","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:43:26.019966Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:43:56.998194","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:43:57.013568Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:44:27.610768","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:44:27.623565Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:44:58.306938","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:44:58.318643Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:45:28.964015","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:45:28.976551Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:45:59.688792","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:45:59.697675Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:46:30.298609","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:46:30.310590Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:47:00.981173","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:47:00.993502Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:47:31.618943","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:47:31.630633Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:48:02.266411","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:48:02.278908Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:48:32.948633","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:48:32.960338Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:49:03.579038","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:49:03.588898Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:49:34.240386","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:49:34.251447Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:50:04.894217","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:50:04.913200Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:50:35.029470","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:50:35.039251Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:51:05.659970","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:51:05.671551Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:51:36.359294","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:51:36.370595Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:52:06.989735","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:52:07.002464Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:52:37.701851","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:52:37.712475Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:53:08.360498","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:53:08.374037Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:53:39.070172","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:53:39.083767Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:54:09.717602","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:54:09.728325Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:54:40.420655","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:54:40.432114Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:55:11.043268","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:55:11.054337Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:55:41.832300","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:55:41.841415Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:56:12.457891","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:56:12.468957Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:56:43.180368","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:56:43.195848Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:57:13.846087","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:57:13.856409Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:57:44.582948","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:57:44.597536Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:58:15.152779","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:58:15.163120Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:58:45.967911","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:58:46.004218Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:59:16.692016","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:59:16.704970Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T22:59:47.426873","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T22:59:47.437993Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:00:18.066619","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:00:18.076462Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:00:48.686864","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:00:48.701927Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:01:19.452867","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:01:19.463203Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:01:50.155560","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:01:50.167675Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:02:20.835588","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:02:20.846931Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:02:51.489094","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:02:51.505703Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:03:22.243157","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:03:22.256035Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:03:52.951889","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:03:52.963540Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:04:23.597713","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:04:23.609239Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:04:54.291935","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:04:54.308733Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:05:25.012371","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:05:25.024886Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:05:55.711057","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:05:55.728858Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:06:26.448177","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:06:26.463997Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:06:57.145213","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:06:57.163722Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:07:28.069392","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:07:28.081221Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:07:58.704486","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:07:58.718469Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:08:29.535497","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:08:29.554015Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:09:00.277540","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:09:00.290894Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:09:31.025351","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:09:31.054859Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:10:01.700289","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:10:01.712953Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:10:32.378349","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:10:32.403633Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:11:03.111189","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:11:03.124990Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:11:33.864597","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:11:33.877381Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:12:04.569824","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:12:04.583808Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:12:35.290302","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:12:35.305390Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:13:06.031722","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:13:06.049559Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:13:36.713878","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:13:36.726711Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:14:07.406937","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:14:07.424766Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:14:38.133248","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:14:38.145676Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:15:08.901587","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:15:08.917274Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:15:39.700435","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:15:39.714623Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:16:10.404446","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:16:10.419307Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:16:41.197152","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:16:41.208846Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:17:11.911647","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:17:11.928882Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:17:42.624712","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:17:42.640617Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:18:13.303492","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:18:13.321487Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:18:44.065375","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:18:44.077525Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:19:14.840274","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:19:14.853667Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:19:45.527100","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:19:45.549876Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:20:16.538228","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:20:16.556439Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:20:47.222838","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:20:47.249131Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:21:17.946614","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:21:17.967403Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:21:48.618201","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:21:48.631023Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:22:19.401213","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:22:19.417960Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:22:50.246338","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:22:50.259441Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:23:21.052879","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:23:21.072188Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:23:51.762851","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:23:51.775573Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:24:22.519310","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:24:22.532211Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:24:53.175696","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:24:53.212934Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:25:23.875078","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:25:23.890561Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:25:54.603535","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:25:54.613704Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:26:25.459089","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:26:25.472265Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-10-02T23:26:56.248828","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sample.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-02T23:26:56.276049Z","level":"info","event":"The addition of 5 and 10 is 15","chan":"stdout","logger":"processor"}

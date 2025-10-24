@@ -1,0 +1,4 @@
+{"timestamp":"2025-10-04T19:10:15.779500","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-04T19:10:15.780534","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather_data.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-04T19:10:15.835690Z","level":"info","event":"fetched weather data","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-04T19:10:15.835705","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
